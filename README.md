@@ -7,7 +7,7 @@
 
 2. Generate the following additional columns. Please export them to a CSV file named synthetic_features.csv:
 
-Revisar el repositorio
+      Revisar el repositorio
 
 3. What is the behavior of the delay rate across destination, airline, month of the year, day of the week, season, type of flight?What
 variables would you expect to have the most influence in predicting delays?
@@ -23,11 +23,11 @@ variables would you expect to have the most influence in predicting delays?
 4. Train one or several models (using the algorithm(s) of your choice) to estimate the likelihood of a flight delay.
 Feel free to generate additional variables and/or supplement with external variables.
 
-Revisar el repositorio
+      Revisar el repositorio
 
 5. Evaluate model performance in the predictive task across each model that you trained. Define and justify what metrics you used
 to assess model performance. Pick the best trained model and evaluate the following: What variables were the most influential in
 the prediction task? How could you improve the
 Performance?
 
-Utilice 4 modelos de los cuales todas tienen un porcentaje de error similar bajo que pueden ser utilizadas para las predicciones de si en vuelos futuros puede tener delay o no. Indicar que para mi, el modelo de regresion multiple permite manejar las variables con mayor comodidas si queremos agregar o quitar variables. Las variables que mas influyen son las del destino y la aerolinea, teniendo mas cantidad de segmentacion de datos podemos tener un mejor pronostico
+      Utilice 4 modelos de los cuales todas tienen un porcentaje de error similar bajo que pueden ser utilizadas para las predicciones de si en vuelos futuros puede         tener delay o no. Indicar que para mi, el modelo de regresion multiple permite manejar las variables con mayor comodidas si queremos agregar o quitar variables.       Las variables que mas influyen son las del destino y la aerolinea, teniendo mas cantidad de segmentacion de datos podemos tener un mejor pronostico
